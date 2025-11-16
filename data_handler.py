@@ -25,7 +25,7 @@ SIMILARITY_THRESHOLD = 0.15
 # --- ACTUAL DATA LOADING ---
 try:
     # --- VERIFY THIS PATH! ---
-    file_path = r"C:\Users\prite\Downloads\indiancrop_dataset (2).csv"
+    file_path = r"indiancrop_dataset (2).csv"
     df_clean = pd.read_csv(file_path)
     
     # Validation (ensure all columns exist)
@@ -346,4 +346,5 @@ def run_two_way_anova_state(df, selected_crops, selected_states):
         # Using a default seaborn palette that is always available
         palette='Set2'
     )
+
     return results, plot_base64
