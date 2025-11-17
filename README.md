@@ -170,7 +170,13 @@ The current system is based on static, historical data. The future potential of 
 
 ## 📚 References
 
-The full list of academic references and citations is available in the project's technical paper.
+https://www.datacamp.com/tutorial/genetic-algorithm-python
+https://www.datacamp.com/tutorial/random-forests-classifier-python
+https://www.geeksforgeeks.org/python/how-to-perform-a-one-way-anova-in-python/
+https://www.geeksforgeeks.org/machine-learning/how-to-perform-a-two-way-anova-in-python/
+https://www.geeksforgeeks.org/python/flask-tutorial/
+https://www.w3schools.com/tags/ref_byfunc.asp
+https://www.w3schools.com/css/
 
 ---
 
