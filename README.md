@@ -103,13 +103,13 @@ The GA-optimized Random Forest model achieved outstanding performance on the hel
 
 The confusion matrix confirmed high per-class prediction accuracy with minimal misclassifications.
 ### Confusion Matrix
-![Confusion Matrix](images/conf.png)
+![Confusion Matrix](Images/conf.png)
 ### Correlation Heatmap
-![Correlation Heatmap](images/conf2.png)
+![Correlation Heatmap](Images/conf2.png)
 ### Accuracy Plot
-![Accuracy](images/accuracy.png)
+![Accuracy](Images/accuracy.png)
 ### F1 Score Plot
-![F1 Score](images/F1.png)
+![F1 Score](Images/F1.png)
 
 
 
@@ -119,13 +119,13 @@ The confusion matrix confirmed high per-class prediction accuracy with minimal m
 
 * **One-Way ANOVA:** A test on four legume crops (e.g., KidneyBeans, PigeonPeas) showed a highly significant difference in their mean crop prices (p < 0.0001). This confirms that crop choice is a critical economic decision.
   ### One-Way ANOVA Result
-![One Way ANOVA](images/one%20way%20anova.png)
+![One Way ANOVA](Images/one%20way%20anova.png)
 
 
 
 * **Two-Way ANOVA:** An analysis of fruit prices across different states revealed a **significant interaction effect** (p = 0.0151) between `CROP` and `STATE`. This is a key finding: it proves that crop profitability is not uniform and depends on the specific combination of the crop and the region where it's grown.
   ### Two-Way ANOVA Result
-![Two Way ANOVA](images/2%20way.png)
+![Two Way ANOVA](Images/2%20way.png)
 
 
 ### Feature Importance
@@ -142,7 +142,7 @@ The trained model identified the most influential factors for predicting crop su
 
 This ranking aligns with established agronomic knowledge, confirming that rainfall and soil nitrogen are primary determinants of crop success.
 ### Feature Importance
-![Feature Importance](images/feature.png)
+![Feature Importance](Images/feature.png)
 
 
 
