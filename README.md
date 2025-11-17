@@ -2,7 +2,7 @@
 
 A data-driven web application that uses a **Genetic Algorithm-optimized Random Forest model** to analyze agricultural data and recommend the most suitable crops for farmers in India based on soil and climate conditions.
 
-**Live Project Website:** [**<-- Add Your Deployed Website Link Here -->**]
+**Live Project Website:** https://analysis-and-prediction-of-crop.onrender.com/
 
 ---
 
